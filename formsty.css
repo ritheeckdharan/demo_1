@@ -1,0 +1,17 @@
+.form-background{
+	background-color:lightblue;
+	border:smooth;
+	align-content:center;
+	margin:50px;
+}
+.input{
+	margin:20px;
+	align-content:center;
+}
+
+.sub{
+  border: 2px solid ;
+  border-radius: 5px;
+  height:50px;
+  width:80px;
+}
