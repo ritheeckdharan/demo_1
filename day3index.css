@@ -1,0 +1,14 @@
+h2{
+    background-color: pink;
+    color:blue;
+}
+
+body{
+    background-color: red;
+    background-image: url("bg.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    background-size: cover;
+    overflow: hidden;
+}
+
